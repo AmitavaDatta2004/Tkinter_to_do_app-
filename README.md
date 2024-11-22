@@ -103,5 +103,4 @@ This project is licensed under the MIT License. Feel free to use, modify, and di
 
 ## Author
 
-Amitava Datta (Replace this with your name or GitHub profile link)  
-[Contact Information]
+Amitava Datta
